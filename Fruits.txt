@@ -4,3 +4,7 @@ We sell fresh farm fruits
  with no add chemicals
  
 The quality of our fruits are very high
+The fruits that we sell are:
+Apple
+mango
+Grapes
