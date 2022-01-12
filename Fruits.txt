@@ -8,3 +8,6 @@ The fruits that we sell are:
 Apple
 mango
 Grapes
+
+
+Thank you
