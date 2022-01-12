@@ -8,6 +8,7 @@ The fruits that we sell are:
 Apple
 mango
 Grapes
+blue berry
 
 Kiwi Watermelon
 Seasonal fruits
